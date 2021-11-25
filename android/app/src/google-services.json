@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1029099494325",
+    "project_id": "mito-chat",
+    "storage_bucket": "mito-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029099494325:android:5db1e4515a715a1fb957fc",
+        "android_client_info": {
+          "package_name": "com.example.mito_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1029099494325-3rke9bloj59ium4drtfovkn51phvpu59.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUU8iC5g2rCigEdSirAQK8LPm82V6MOGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1029099494325-3rke9bloj59ium4drtfovkn51phvpu59.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
